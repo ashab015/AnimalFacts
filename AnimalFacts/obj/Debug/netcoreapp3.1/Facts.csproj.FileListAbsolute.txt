@@ -1,0 +1,9 @@
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\bin\Debug\netcoreapp3.1\Facts.deps.json
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\bin\Debug\netcoreapp3.1\Facts.dll
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\bin\Debug\netcoreapp3.1\Facts.pdb
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\Facts.AssemblyInfoInputs.cache
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\Facts.AssemblyInfo.cs
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\Facts.csproj.CoreCompileInputs.cache
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\Facts.dll
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\Facts.pdb
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\Facts.csprojAssemblyReference.cache

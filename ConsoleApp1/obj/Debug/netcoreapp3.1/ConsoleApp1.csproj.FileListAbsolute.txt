@@ -1,0 +1,16 @@
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\Facts.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\bin\Debug\netcoreapp3.1\Facts.pdb
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+X:\Test\CodeTest\AnimalFacts\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

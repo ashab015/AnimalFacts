@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vwH9MVDi8dFnOB5jy8nt52Uzmbp1hMLG7cbthKnVzxRx16KRqoSjGT0/Rh/oKhxZ/c9pdJC+VBB3BoBE57vYQ==",
+  "success": true,
+  "projectFilePath": "X:\\Test\\CodeTest\\AnimalFacts\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlphaPC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\bin\Debug\netcoreapp3.1\AnimalFacts.deps.json
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\bin\Debug\netcoreapp3.1\AnimalFacts.dll
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\AnimalFacts.csprojAssemblyReference.cache
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\AnimalFacts.AssemblyInfoInputs.cache
+X:\Test\CodeTest\AnimalFacts\AnimalFacts\obj\Debug\netcoreapp3.1\AnimalFacts.AssemblyInfo.cs

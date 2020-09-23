@@ -1,0 +1,17 @@
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\Facts.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\bin\Debug\netcoreapp3.1\Facts.pdb
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CopyComplete
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+X:\Test\CodeTest\AnimalFacts\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
